@@ -15,7 +15,7 @@ Modified from documentation found at https://d396qusza40orc.cloudfront.net/getda
 * activity
     + One of the following: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-##The variables below are the **means** of the respective raw X training and test data set features, summarized for that particular grouping of subject and activity. See the source documention from the above link for more details concerning the original measurements.
+The variables below are the **means** of the respective raw X training and test data set features, summarized for that particular grouping of subject and activity. See the source documention from the above link for more details concerning the original measurements.
 
 * tBodyAcc-mean()-X
 * tBodyAcc-mean()-Y
