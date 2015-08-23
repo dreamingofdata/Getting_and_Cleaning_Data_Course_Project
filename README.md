@@ -30,13 +30,13 @@ The script begins by reading the `features.txt` which contains a list of the 500
 It then reads the raw data (X), the activity IDs for each record (y) and the ID of the subject associated with each record (subject). It does this for both the test and training data sets.
 
 * test data
-+ `test/X_test.txt`
-+ `test/y_test.txt`
-+ `test/subject_test.txt`
+    + `test/X_test.txt`
+    + `test/y_test.txt`
+    + `test/subject_test.txt`
 * training data
-+ `train/X_train.txt`
-+ `train/y_train.txt`
-+ `train/subject_train.txt`
+    + `train/X_train.txt`
+    + `train/y_train.txt`
+    + `train/subject_train.txt`
 
 The conversion between the activity IDs found in `y_test` and `y_train` and their descriptive labels are pulled from the `activity_labels.txt` file.
 
